@@ -36,7 +36,7 @@ ghawra@brawijaya:~$ cat profile.json
 | :---: | :--- |
 | 🎨 **Frontend** | ![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61DAFB) ![Next](https://img.shields.io/badge/-Next.js-000?logo=next.js) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=F7DF1E) |
 | ⚙️ **Backend** | ![Node](https://img.shields.io/badge/-Node.js-6DA55F?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-404d59?logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-14354C?logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) |
-| 🗄️ **Data** | ![MySQL](https://img.shields.io/badge/-MySQL-00f?logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-039BE5?logo=firebase&logoColor=white) |
+| 🗄️ **Data** | ![MySQL](https://img.shields.io/badge/-MySQL-00f?logo=mysql&logoColor=white)) |
 | 🧰 **Tools** | ![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-121011?logo=github) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) |
 
 </div>
@@ -47,6 +47,7 @@ ghawra@brawijaya:~$ cat profile.json
 
 ```text
 * Apr 2026 ─ now   Web Dev & Admin (Internal Intern)    @ PSIK Vokasi UB
+* 
 ```
 
 ---
