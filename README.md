@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d2e,100:00ff9c&height=220&section=header&text=Ghaura%20Furqon%20Nugraha&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Game%20Dev%20%C2%B7%20Cyber%20Security&descAlignY=60&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d2e,100:00ff9c&height=220&section=header&text=Ghaura%20Furqon%20Nugraha&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20%20%C2%B7%20Cyber%20Security&descAlignY=60&descSize=18" alt="header" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%86%92+ghawra;%24+building+products+end-to-end;%24+capturing+flags+on+weekends;%24+debugging+fiber+%26+frontend+alike" alt="typing" /></a>
 
