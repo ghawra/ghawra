@@ -18,7 +18,7 @@
 ghawra@brawijaya:~$ cat profile.json
 {
   "name":       "Ghaura Furqon Nugraha",
-  "base":       ["Malang, Jawa Timur", "Bukittinggi, Sumatera Barat"],
+  "base":       ["Malang, Jawa Timur", "Jakarta Timur, DKI Jakarta"],
   "campus":     "Universitas Brawijaya — D3 Teknologi Informasi",
   "focus":      ["Full-Stack Web", "Network & Cyber Security"],
   "ai_stack":   ["Gemini", "DeepSeek", "Claude", "GPT"],
