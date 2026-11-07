@@ -51,16 +51,6 @@ ghawra@brawijaya:~$ cat profile.json
 
 ---
 
-## `~/flags_captured`
-
-```diff
-+ Kompetitor      Zero Day National CTF 2026
-+ Kompetitor      picoCTF 2026 (Carnegie Mellon University)
-+ Finalis         MTQ UB XIX — Desain Aplikasi Al-Qur'an (2026)
-+ Finalis Nasional Ediverse Math Competition (2023, 2024)
-+ Juara 2 & Top 5 Kihajar STEM Provinsi Sumbar (2023, 2024)
-```
-
 ---
 
 ## `~/education`
